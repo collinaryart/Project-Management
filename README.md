@@ -1,5 +1,5 @@
-# Project-Management for GameDev
-These documents include Agile artifacts, a project charter, astakeholder register and a Work Breakdown Structure. They detail the DLC development for one of the client's (PixelForge Games') existing titles.
+# GameDev Project Management
+These documents detail the DLC development for one of the client's (PixelForge Games') existing titles.
 
 The KPIs are to boost player retention over 18 months. Specifically,
 Week 1 (W1) retention is to increase by 30%,
