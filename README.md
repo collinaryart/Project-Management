@@ -5,8 +5,6 @@ The project timeline is 5 months, with a budget of $240,000.
 
 The KPIs are to boost player retention over 18 months. Specifically,
 
-Week 1 (W1) retention is to increase by 30%,
-
-Month 1 (M1) retention by 25% and
-
-Three-Month (M3) retention by 10%.
+- Week 1 (W1) retention is to increase by 30%,
+- Month 1 (M1) retention by 25% and
+- Three-Month (M3) retention by 10%.
