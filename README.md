@@ -1,7 +1,5 @@
 # Project Management for Game Development
-These mock documents detail the development of a game DLC, for the client PixelForge Games.
-
-The project timeline is 5 months, with a budget of $240,000.
+The mock development of a game DLC, for the client PixelForge Games. The project timeline is 5 months, with a budget of $240,000.
 
 The KPIs are to boost player retention over 18 months. Specifically,
 
